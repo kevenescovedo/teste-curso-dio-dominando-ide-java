@@ -32,7 +32,7 @@ public class calculadora {
     	return a * b;
     }
     public static double divisao(int a, int b) {
-    	return (double)5 / 2;
+    	return (double)a / b;
     }
 
     
